@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 985A-D22D
+
+ Directory of C:\asha\Devops\Project1
+
+06-12-2019  10:42    <DIR>          .
+06-12-2019  10:42    <DIR>          ..
+06-12-2019  10:41                 7 Test1.txt
+06-12-2019  10:42                 0 test2.txt
+               2 File(s)              7 bytes
+               2 Dir(s)  504,284,246,016 bytes free
